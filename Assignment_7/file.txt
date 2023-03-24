@@ -1,1 +1,6 @@
-hello trial
+sudo add-apt-repository universe
+sudo apt update
+sudo apt install gfortran
+hi i am vivek
+HELLO VIVELK RAJ
+kitne queston kar liye
