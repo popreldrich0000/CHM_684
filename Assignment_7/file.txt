@@ -3,3 +3,4 @@ sudo apt update
 sudo apt install gfortran
 function 1 
 function 2
+shubham mera naam
